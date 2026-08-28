@@ -1,4 +1,4 @@
-# Histria-dos-jogos
+# História-dos-jogos
 
 # 🎮 Segundo Cérebro: Criação e Evolução dos Jogos
 
