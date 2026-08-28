@@ -54,3 +54,30 @@ Foram selecionadas 4 a 5 fontes complementares cobrindo história, engenharia de
 * `Quais foram as principais limitações de memória mencionadas e como foram resolvidas?`
 * `Gere uma tabela comparativa com: Conceito | Exemplo no Jogo | Benefício para o Jogador.`
 * `Crie um quiz de 5 perguntas com gabarito comentado sobre a transição para engines 3D.`
+
+* ### 📸 Evidências dos Testes (Prints do NotebookLM)
+
+#### Teste 1: Transição 2D para 3D
+* **Parte 1 (Pergunta e Início da Resposta):**
+![Teste 1 - Parte 1](./Print1(1).png)
+
+* **Parte 2 (Continuação e Citações de Fontes):**
+![Teste 1 - Parte 2](./Print1(2).png)
+
+---
+
+#### Teste 2: Metodologias de Game Design (Nintendo vs Valve)
+* **Parte 1 (Pergunta e Análise):**
+![Teste 2 - Parte 1](./Print2(1).png)
+
+* **Parte 2 (Continuação da Resposta):**
+![Teste 2 - Parte 2](./Print2(2).png)
+
+---
+
+#### Teste 3: Tabela de Evolução das Engines
+* **Parte 1 (Pergunta e Tabela):**
+![Teste 3 - Parte 1](./Print3(1).png)
+
+* **Parte 2 (Detalhamento Técnico):**
+![Teste 3 - Parte 2](./Print3(2).png)
